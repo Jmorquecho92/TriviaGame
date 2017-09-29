@@ -1,0 +1,58 @@
+* {
+    font-family: "Crimson Text", serif;
+}
+ 
+body {
+    background: url(http://cdn29.us1.fansshare.com/images/theburningwall/hogwarts-in-flames-harry-potter-and-the-deathly-hallows-movie-wallpaper-movie-1481443162.jpg); 
+    }
+ 
+#form {
+    width: 65%;
+    margin-left: 35%;
+    color:white;
+}
+ 
+.right {
+    text-align: right;
+    margin-top: -45px;
+    color: white;
+}
+ 
+.center {
+    text-align: center;
+}
+ 
+.container {
+    margin: 50px auto;
+    width: 500px;
+    border: 2px solid black;
+    padding: 3% 3%;
+    background: rgba(0, 0, 20, 0.3);
+    color: white;
+}
+ 
+button {
+    margin: 15px auto 0 auto;
+    display: block;
+    padding: 5px 15px;
+    border-radius: 10px;
+    font-size: 1.25em;
+    background: black;
+    color: white;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+ 
+button:hover {
+    color: black;
+    background: white;
+}
+ 
+label {
+    font-size: 1.25em;
+    padding: 1%;
+}
+ 
+    }
+}
