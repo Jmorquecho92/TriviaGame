@@ -24,22 +24,22 @@ var questions = [
   {
     question: "What is the name of Hagrid's dog?",
     choices: ["Max", "Georgie", "Fang", "Fred"],
-    right: "Fang"
+    correct: "Fang"
   },
   {
     question: "What spell is used to cast a patronus?",
     choices: ["Expelliarmus", "Avada-Kedavra", "Allohamora", "Expecto Patronum"],
-    right: "Expecto Patronum"
+    correct: "Expecto Patronum"
   },
   {
     question: "What spell is used that causes instant death?",
     choices: ["Avada-Kedavra", "Ascendio", "Fianto Duri", "Partis Temporus"],
-    right: "Avada-Kedavra"
+    correct: "Avada-Kedavra"
   },
   {
     question: "Which house did the sorting hat almost put Harry in?",
     choices: ["Hufflepuff", "Slytherin", "Gryfindor", "Ravenclaw"],
-    right: "Slytherin"
+    correct: "Slytherin"
   }
 ];
  
